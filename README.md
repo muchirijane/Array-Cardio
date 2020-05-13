@@ -6,7 +6,7 @@ The methods include:
   <li> Filter</li>
   <li> Sort</li>
   <li> Reduce</li>
-  <li> Mpa</li>
+  <li> Map</li>
   </ul>
 
 <br>
