@@ -1,10 +1,13 @@
 # Array-Cardio
 This was a fun exercise to practice on Array Methods and how they can be used in different situations. 
 The methods include:
-1) Filter
-2) Reduce
-3)Sort
-4)Map
+<br>
+<ul>
+  <li> Filter</li>
+  <li> Sort</li>
+  <li> Reduce</li>
+  <li> Mpa</li>
+  </ul>
 
 <br>
 <br>
